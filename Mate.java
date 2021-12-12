@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Matematica {
+public class Mate {
 
 	public int suma(int param1, int param2) {
 		return param1 + param2;
