@@ -4,7 +4,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class Mate_test1 {
-	Matematica mate;
+	Mate mate;
 	
 	@Before
 	public void setUp(){
