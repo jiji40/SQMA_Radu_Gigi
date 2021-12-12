@@ -3,12 +3,12 @@ import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
 
-public class MatematicaTests {
-	Matematica mate;
+public class Mate_test2 {
+	Mate mate;
 	
 	@Before
 	public void setUp(){
-		mate=new Matematica();
+		mate=new Mate();
 	}
 	
 	@Test
